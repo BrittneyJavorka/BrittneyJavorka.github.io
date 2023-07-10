@@ -1,15 +1,8 @@
 ## Portfolio
 
----
 
-Project 1
-
-Cat Vs Dog Popularity in the U.S.
-PetPopularityByState.xlsx
-
----
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<xlsx src="PetPopularityBState.xlsx"/>
 
 ---
 [Project 3 Title](http://example.com/)
