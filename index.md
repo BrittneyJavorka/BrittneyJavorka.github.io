@@ -4,7 +4,7 @@
 
 Project 1
 
-Cat Vs Dog Popularity in the U.S.(/sample_page)
+Cat Vs Dog Popularity in the U.S.
 PetPopularityByState.xlsx
 
 ---
